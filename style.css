@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    color: black;
+    background-color: seagreen;
+   flex: content;
+    margin: 15%;
+}
+img{
+    height: auto;
+    width: 50%;
+}
+h2{
+    color: orange;
+}
